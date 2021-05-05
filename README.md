@@ -1,15 +1,15 @@
 # Prison
 
 
-# Goal:
+## Goal:
 
 Generating optimised prisons
 
-# Topic:
+## Topic:
 
 evolutionary algorithms
 
-Factors taken into account:
+## Factors taken into account:
 
 -price
 
@@ -27,8 +27,7 @@ Factors taken into account:
 
 -number of windows
 
-# Screen:
-
+## Screen:
 
 ![image](https://user-images.githubusercontent.com/58606334/117126804-92d68300-ad9b-11eb-92ad-67a1df4e973b.png)
 
