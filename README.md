@@ -23,7 +23,7 @@ evolutionary algorithms
 
 -cameras
 
--optimised exit route
+-optimized exit route
 
 -number of windows
 
