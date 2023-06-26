@@ -11,7 +11,7 @@ evolutionary algorithms
 
 ## Factors taken into account:
 
--price
+-price 
 
 -guard room
 
