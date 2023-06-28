@@ -13,7 +13,7 @@ evolutionary algorithms
 
 -price 
 
--guard room
+-guard room 
 
 -number of cells
 
